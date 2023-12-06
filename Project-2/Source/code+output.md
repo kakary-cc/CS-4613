@@ -1,3 +1,6 @@
+#### Source Code
+
+````c++
 //  CS 4613
 //  Project 2
 //
@@ -239,3 +242,26 @@ int main(int argc, const char *argv[]) {
     fout.close();
     return 0;
 }
+````
+
+
+
+---
+
+#### Output 1
+
+````
+9567
+1085
+10652
+````
+
+
+
+#### Output 2
+
+````
+7483
+7455
+14938
+````
