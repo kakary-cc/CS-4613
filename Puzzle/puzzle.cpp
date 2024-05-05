@@ -1,8 +1,3 @@
-//  CS 4613
-//  Project 1
-//
-//  Micheal Zhang
-
 #include <iostream>
 #include <fstream>
 #include <algorithm>
